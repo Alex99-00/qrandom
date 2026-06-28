@@ -9,6 +9,7 @@ You need a API key, register is free.
 
 # Install
 python -m venv .venv
+
 pip install -r requirements.txt
 
 # Run
