@@ -3,6 +3,8 @@ QRNG based random numbers
 
 Fetch QRNG based numbers from https://quantumnumbers.anu.edu.au/
 
+# Note
+Do not use for production. Use a QRNG USB Key. 
 
 # Requirements
 You need a API key, register is free.
