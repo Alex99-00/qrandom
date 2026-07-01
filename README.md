@@ -7,7 +7,7 @@ Fetch QRNG based numbers from https://quantumnumbers.anu.edu.au/
 Do not use for production. Use a QRNG USB Key. 
 
 # Requirements
-You'll need an API key. Registration is free.
+You'll need an API key from https://quantumnumbers.anu.edu.au/. Registration is free.
 
 # Install
 python -m venv .venv
